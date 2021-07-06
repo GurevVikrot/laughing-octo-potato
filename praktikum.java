@@ -5,6 +5,7 @@ class praktikum {
         String s = "asss";
 
         static int restart(int a) {
+           a = a*2;
            return a + 1;
 
         }
